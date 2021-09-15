@@ -2,6 +2,6 @@
 
 
 
-To predict the revenue of the game of a particular company based on Critic score, Platform, Userscore.
-Built regression models to investigate sales of video games within regions across the world and also using 
-statistical modelling identified action games  which correlates to high amount of global sales. 
+To predict the revenue of the video games based on Critic score, Gaming Platform, Userscore.
+Built regression models to investigate sales of video games within regions across the world. Using 
+statistical modelling identified action games which correlates to high amount of global sales. 
